@@ -1,2 +1,4 @@
 # first_project
-first_project chitsanupong
+first_project 
+    chitsanupong
+    Phuwanesh
